@@ -7,6 +7,8 @@
       <ul>
          <p>
 
+🍀 I'm a Electronics and Computer Engineering student @ JUIT
+
 🍄 See what I'm up to on my [**LinkedIn**](https://www.linkedin.com/in/deepanshu7me/)
 
 🪲 Contact me via email: **deepanshu7me@gmail.com**
