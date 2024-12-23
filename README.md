@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img> <img src="https://drive.google.com/file/d/1eVKc54kD801PJtD9UUzNAQDRyhCw9iBA/view" width="400"/>
+      <img> <img src="https://raw.githubusercontent.com/deepanshu7me/deepanshu7me/refs/heads/main/config.gif" width="400"/>
 </img>
     </td>
 
