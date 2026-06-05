@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td>
-      <img> <img src="https://raw.githubusercontent.com/deepanshu7me/deepanshu7me/refs/heads/main/config.gif" width="400"/>
+      <img> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="400"/>
 </img>
     </td>
 
