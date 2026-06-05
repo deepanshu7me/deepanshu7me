@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td>
-      <img> <img src="https://raw.githubusercontent.com/deepanshu7me/deepanshu7me/refs/heads/main/config.gif" width="400"/>
+      <img> <img src="https://motionbgs.com/media/6610/mario-pixel-room.960x540.mp4" width="400"/>
 </img>
     </td>
 
